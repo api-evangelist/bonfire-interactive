@@ -64,6 +64,50 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bonfire Interactive is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Bonfire Interactive is a strategic sourcing and procurement software company serving the public sector, based in the Kitchener-Waterloo region of Ontario, Canada. Its GoBonfire platform digitizes RFP/RFQ sourcing, bid evaluation and scoring, supplier management, and contract workflows for government agencies, education, healthcare, utilities, and nonprofit organizations. Bonfire was acquired by GTY Technology Holdings in 2019, and has since been consolidated — alongside IonWave, EqualLevel, and DemandStar — into Euna Solutions as Euna Procurement, a full-cycle public-sector procurement suite spanning sourcing, contracting, marketplace purchasing, invoicing, and supplier management. The gobonfire.com domain now redirects to eunasolutions.com. Bonfire does not publish a public developer API program or OpenAPI definition; this profile is maintained for API Evangelist network completeness and demand tracking.
+
+**Areas:** Company · Procurement · Strategic Sourcing · Public Sector · GovTech · Government · Contract Management · Supplier Management · RFP · Software-as-a-Service
+
+## Bonfire Interactive on APIs.io (historical record)
+
+Everything profiled for Bonfire Interactive is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bonfire-interactive/](https://apis.io/providers/bonfire-interactive/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bonfire Interactive Domain Security](https://apis.io/security/bonfire-interactive/bonfire-interactive-domain-security/)
+- [Bonfire Interactive Vulnerability Disclosure](https://apis.io/security/bonfire-interactive/bonfire-interactive-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gobonfire.com)
+- [Support](https://help.eunasolutions.com/hc/en-us)
+- [Blog](https://eunasolutions.com/resources/type/blog/)
+- [Security](https://eunasolutions.com/security-euna-solutions/)
+- [Terms of service](https://eunasolutions.com/terms-of-use/)
+- [Privacy policy](https://eunasolutions.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bonfire Interactive: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bonfire-interactive/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
